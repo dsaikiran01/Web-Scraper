@@ -1,0 +1,10 @@
+# folders
+env/
+
+# files
+*.txt
+regex.py
+example.html
+
+# do not ignore
+!requirements.txt
